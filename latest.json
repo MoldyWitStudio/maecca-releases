@@ -1,0 +1,40 @@
+{
+  "version": "0.1.0",
+  "build": 6,
+  "date": "2026-11-27",
+  "notes": [
+    "Desktop looks like the web with Skins: glass, colours, 3D background"
+  ],
+  "files": {
+    "linux-x64-deb": {
+      "name": "maecca-0.1.0-linux-x64.deb",
+      "sha256": "333d2150dc77eba93545beaf82990f4c684d45b5b0cd867c1a8e972a5e570dda",
+      "size": 21473964,
+      "min_os": "Debian 12, Ubuntu 22.04, Mint 21 or newer"
+    },
+    "linux-x64-rpm": {
+      "name": "maecca-0.1.0-linux-x64.rpm",
+      "sha256": "04ece245047f003d0f8cd21af2f320e3f9d34429794445fb6fb1f3652a2c3a25",
+      "size": 29257159,
+      "min_os": "Fedora 36, openSUSE Tumbleweed or newer"
+    },
+    "linux-x64-appimage": {
+      "name": "maecca-0.1.0-linux-x64.AppImage",
+      "sha256": "3b35ad24d54417c5a0b16245ed1f937a258482a32d493e5293c9ca0b60cee5a8",
+      "size": 29035000,
+      "min_os": "glibc 2.35 or newer"
+    },
+    "linux-x64-tar": {
+      "name": "maecca-0.1.0-linux-x64.tar.gz",
+      "sha256": "402def72fc21c0b7d8c794e076d2406946eaaf51be66a6ca7bf2cfb93c01f90e",
+      "size": 29400614,
+      "min_os": "glibc 2.35 or newer"
+    },
+    "linux-x64": {
+      "name": "maecca-0.1.0-linux-x64.tar.gz",
+      "sha256": "402def72fc21c0b7d8c794e076d2406946eaaf51be66a6ca7bf2cfb93c01f90e",
+      "size": 29400614,
+      "min_os": "glibc 2.35 or newer"
+    }
+  }
+}
